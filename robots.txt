@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://besttireinflator.com/sitemap.xml
